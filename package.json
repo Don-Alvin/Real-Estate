@@ -1,0 +1,28 @@
+{
+  "name": "real-estate",
+  "version": "1.0.0",
+  "description": "Real Estate Website using Vanila Javascript, CSS, and HTML The project is bundled using webpack",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Don-Alvin/Real-Estate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Don-Alvin/Real-Estate/issues"
+  },
+  "homepage": "https://github.com/Don-Alvin/Real-Estate#readme",
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
