@@ -812,7 +812,7 @@ body.dark-theme {
 }
 
 .footer__info,
-.foooter__privacy {
+.footer__privacy {
 	display: flex;
 }
 
@@ -825,13 +825,13 @@ body.dark-theme {
 }
 
 .footer__copy,
-.foooter__privacy {
+.footer__privacy a {
 	font-size: var(--smaller-font-size);
 	font-weight: var(--font-medium);
 	color: var(--text-color);
 }
 
-.foooter__privacy {
+.footer__privacy {
 	justify-content: center;
 	column-gap: 1.25rem;
 }
